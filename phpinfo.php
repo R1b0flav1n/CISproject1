@@ -12,7 +12,7 @@
         include("../../ToC.php");
     ?>
     
-    <!--Display PHP info-->
+    <!--PHP info-->
     <?php 
         phpinfo(); 
     ?>
