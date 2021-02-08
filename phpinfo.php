@@ -5,7 +5,7 @@
 <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <link rel="stylesheet" type="text/css" href="\css\style.css"/>
-    <title>Assignment 1</title>
+    <title>CISproject1</title>
 </head>
 <body>
     <!--Menu-->
