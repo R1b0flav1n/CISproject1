@@ -5,7 +5,7 @@
 <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <link rel="stylesheet" type="text/css" href="\css\style.css"/>
-    <title>Welcome to CSIS 410</title>
+    <title>CISproject1</title>
 </head>
 <body>
     <!--Menu-->
