@@ -15,12 +15,12 @@
     
     <p>
         <?php
-        echo "Welcome to Assignment 1. Website hosting is an important aspect of maintaining a website, choosing a reliable and trustworty host is vital. This website in particular is hosted by Hostica and provides many features and services that are useful. Hostica not only offers hosting services, but they also offer domain name purchasing, mySQL and PHP capabilities, and a very capable FTP interface.";
+        echo "Welcome to CIS project 1. Website hosting is the bread and butter of maintaining a website, choosing a reliable and trustworthy host is vital. This website is hosted by Github and provides many features and services that are useful. Offering ease of collaboration, back ups, and immense documentation to help resolve any problems.";
         ?>
     </p>
     <p>
         <?php
-        echo "There are, however, a few disadvantages to using Hostica. Althought Hostica has a very capable FTP interface, using the interface is sometimes difficult and takes a little bit of practice to maneuver successfully through all the options and folder structure. Other than that, Hostica is a very good option when it comes to hosting a website such as this one.";
+        echo "There are unfortunatley some disadvatages to using Github. Many of Git hubs features are locked behind payment creating a frustrating experience when issues can only be resolved through paid features. Additionally Github is not known for having adequate security and is therefore riskier than other possible services. Regardless of the flaws the hosting platform is worth recommending to those with little interest in running a website without the assistance of a UI that does most of the work for you that is also mostly free.";
         ?>
     </p>
     
