@@ -10,7 +10,7 @@
 <body>
     <!--Menu-->
     <?php
-        include("../../menu.php");
+        include("../../ToC.php");
     ?>
     
     <!--Display PHP info-->
