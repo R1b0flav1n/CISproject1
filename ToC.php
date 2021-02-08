@@ -10,11 +10,7 @@
     <div class="submenu">
                 
                 <h1><a href="/assignments/cmsprojectpart1/about/index.php">About Us</a></h1>
-                <h1>|</h1>
-                <h1><a href="/assignments/cmsprojectpart1/about/beliefs.php">What We Believe</a></h1>
-                <h1>|</h1>
-                <h1><a href="/assignments/cmsprojectpart1/about/faqs.php">FAQs</a></h1>
-                
+				
     </div>
 </body>
 </html>
