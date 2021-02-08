@@ -13,7 +13,7 @@
         <?php
         filemtime("home.php");
         echo "<br />";
-        echo "Last modified: ".date("F d Y H:i:s.", filemtime("index.php"));
+        echo "Last modified: ".date("F d Y H:i:s.", filemtime("home.php"));
         if (!isset($_SESSION['user'])) {
         echo " User not logged in.";
         } else echo " User: {$_SESSION['user']}";
