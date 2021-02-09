@@ -10,9 +10,9 @@
     <div id="footer">
         <a href="https://validator.w3.org/check?uri=referer"><img src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0!" height="31" width="88" /></a>
         <?php
-        filemtime("index.php");
+        filemtime("index.md");
         echo "<br />";
-        echo "Last modified: ".date("F d Y H:i:s.", filemtime("index.php"));
+        echo "Last modified: ".date("F d Y H:i:s.", filemtime("index.md"));
         if (!isset($_SESSION['user'])) {
         echo " User not logged in.";
         } else echo " User: {$_SESSION['user']}";
