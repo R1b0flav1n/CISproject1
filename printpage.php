@@ -8,7 +8,7 @@
 <body>
     <!--Menu-->
     <?php 
-        include("../../ToC.php");
+        include("../../ToC.md");
     ?>
     
     <p>
@@ -24,7 +24,7 @@
     
     <!--Menu-->
     <?php 
-        include("../../footer.php");
+        include("../../footer.md");
     ?>
 </body>
 </html>

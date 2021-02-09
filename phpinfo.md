@@ -9,7 +9,7 @@
 <body>
     <!--Menu-->
     <?php
-        include("../../ToC.php");
+        include("../../ToC.md");
     ?>
     
     <!--PHP info-->
@@ -19,7 +19,7 @@
     
     <!--Footer-->
     <?php
-        include("../../footer.php");
+        include("../../footer.md");
     ?>
 </body>
 </html>

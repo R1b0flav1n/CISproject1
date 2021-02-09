@@ -7,7 +7,7 @@
 <body>
     <!--Menu-->
     <?php 
-        include("../../ToC.php");
+        include("../../ToC.md");
     ?>
     
     <!--Review-->
@@ -16,12 +16,12 @@
     <p>     There are unfortunatley some disadvatages to using Github. Many of Git hubs features are locked behind payment creating a frustrating experience when issues can only be resolved through paid features. Additionally Github is not known for having adequate security and is therefore riskier than other possible services. Regardless of the flaws the hosting platform is worth recommending to those with little interest in running a website without the assistance of a UI that does most of the work for you that is also mostly free.
     </p>
     
-    <p>In order to view the PHP info of this assignment, please click <a href="phpinfo.php">here</a>.
+    <p>In order to view the PHP info of this assignment, please click <a href="phpinfo.md">here</a>.
     </p>
    
     <!--Footer-->
     <?php
-        include("../../footer.php");
+        include("../../footer.md");
     ?>
 </body>
 </html>
