@@ -8,7 +8,7 @@
 <body>
     <!--Menu-->
     <?php 
-        include("../../ToC.md");
+        include("https://r1b0flav1n.github.io/CISproject1/ToC.md");
     ?>
     
     <p>
@@ -24,7 +24,7 @@
     
     <!--Menu-->
     <?php 
-        include("../../footer.md");
+        include("https://r1b0flav1n.github.io/CISproject1/footer.md");
     ?>
 </body>
 </html>
